@@ -1,3 +1,4 @@
+//leeetcode problem 
 class OrderedStream {
 public:
     vector<string> stream ; //to get input
@@ -15,5 +16,5 @@ public:
             i++;
         }
         return result;
-    }
+    }\
 };
